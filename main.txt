@@ -3,3 +3,5 @@ BiliBili:bilibili.com
 YouTube:youtube.com
 X:x.com
 Github:github.com
+chatclaw:cute486.dpdns.org:8443
+DeepSeek:chat.deepseek.com
